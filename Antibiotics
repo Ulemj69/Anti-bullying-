@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bullying Awareness</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bullying Awareness</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#what-is-bullying">What is Bullying?</a></li>
+                <li><a href="#types-of-bullying">Types of Bullying</a></li>
+                <li><a href="#effects-of-bullying">Effects of Bullying</a></li>
+                <li><a href="#how-to-get-help">How to Get Help</a></li>
+                <li><a href="#resources">Resources</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home">
+            <h2>Home</h2>
+            <p>Welcome to our website dedicated to raising awareness about bullying. Bullying is a serious issue that affects many people, especially children and teenagers. It can have long-lasting negative effects on mental health and well-being. Our goal is to provide information, support, and resources to help those affected by bullying.</p>
+        </section>
+
+        <section id="what-is-bullying">
+            <h2>What is Bullying?</h2>
+            <p>Bullying is unwanted, aggressive behavior among school-aged children that involves a real or perceived power imbalance. The behavior is repeated, or has the potential to be repeated, over time. Bullying includes actions such as making threats, spreading rumors, attacking someone physically or verbally, and excluding someone from a group on purpose.</p>
+        </section>
+
+        <section id="types-of-bullying">
+            <h2>Types of Bullying</h2>
+            <p>Bullying can take many forms. Here are some common types:</p>
+            <ul>
+                <li><strong>Physical Bullying:</strong> This includes hitting, kicking, tripping, or pushing.</li>
+                <li><strong>Verbal Bullying:</strong> This includes name-calling, teasing, and making offensive remarks.</li>
+                <li><strong>Social Bullying:</strong> This involves spreading rumors, excluding someone from social activities, and damaging someone's reputation.</li>
+                <li><strong>Cyberbullying:</strong> This occurs through electronic devices and social media platforms. It includes sending mean messages, posting embarrassing photos, and creating fake profiles.</li>
+            </ul>
+        </section>
+
+        <section id="effects-of-bullying">
+            <h2>Effects of Bullying</h2>
+            <p>Bullying can have serious and lasting effects on both the victim and the bully. Some of these effects include:</p>
+            <ul>
+                <li><strong>Mental Health Issues:</strong> Anxiety, depression, and low self-esteem.</li>
+                <li><strong>Physical Health Issues:</strong> Headaches, stomachaches, and other stress-related problems.</li>
+                <li><strong>Academic Problems:</strong> Difficulty concentrating, lower grades, and increased absenteeism.</li>
+                <li><strong>Behavioral Issues:</strong> Increased likelihood of substance abuse, self-harm, and suicidal thoughts.</li>
+            </ul>
+        </section>
+
+        <section id="how-to-get-help">
+            <h2>How to Get Help</h2>
+            <p>If you or someone you know is being bullied, it's important to seek help. Here are some steps you can take:</p>
+            <ul>
+                <li><strong>Talk to Someone:</strong> Speak to a trusted adult, such as a parent, teacher, or counselor.</li>
+                <li><strong>Report the Bullying:</strong> Inform school authorities or other relevant organizations about the bullying.</li>
+                <li><strong>Stay Safe:</strong> Avoid situations where bullying might occur and stay with friends or in groups.</li>
+                <li><strong>Seek Professional Help:</strong> If the bullying is causing significant distress, consider seeking help from a mental health professional.</li>
+            </ul>
+        </section>
+
+        <section id="resources">
+            <h2>Resources</h2>
+            <p>Here are some additional resources for further information and support:</p>
+            <ul>
+                <li><a href="https://www.stopbullying.gov/" target="_blank">StopBullying.gov</a></li>
+                <li><a href="https://www.nobullying.com/" target="_blank">NoBullying.com</a></li>
+                <li><a href="https://www.childline.org.uk/" target="_blank">Childline</a></li>
+                <li><a href="https://www.mentalhealth.org.uk/" target="_blank">Mental Health Foundation</a></li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Bullying Awareness. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
